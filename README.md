@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Changes made from github
 
 Trying Git Pull directly rather than going through fetch and merge
+
+Trying Push Branch to GitHub
